@@ -47,7 +47,7 @@ This project is a Swift-based application demonstrating AR-related features. It 
 2. **Build the Project**:
    Open the integrated terminal in VS Code and run the following command (replace `<YOUR_DEVICE_UDID>` as needed):
    ```bash
-   xcodebuild -scheme AR_Exploration -destination 'platform=iOS,id=<YOUR_DEVICE_UDID>' build
+   xcodebuild -scheme AR_Exploration -destination 'platform=iOS,id=00008030-000D4C6C2140C02E' build
    ```
    This command compiles the project for the specified device.
 
